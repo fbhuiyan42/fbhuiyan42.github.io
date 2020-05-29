@@ -13,7 +13,11 @@ Oak Ridge National Laboratory, Oak Ridge, TN, United States<br/>
 
 2. Software Developer (Android)<br/>
 Reve System Ltd, Dhaka, Bangladesh<br/>
-2016-2017, 1 year 2 months
+2016-2017, 8 months
+
+3. Software Developer (Android)<br/>
+iPay Bangladesh, Dhaka, Bangladesh<br/>
+2016, 4 months
 
 ## Academic
 
@@ -23,8 +27,8 @@ SC18 Conference, Dallas, TX, United States<br/>
 
 2. Teaching Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
-2017-2018, 1 year
+2017-2019, 2 year
 
 3. Research Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
-2018-Present, 2 years
+2020-Present, 5 months
