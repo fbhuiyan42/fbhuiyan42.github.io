@@ -9,4 +9,4 @@ redirect_from:
 
 Click on download to download or view my CV.
 
-[Download](https://msharif42.github.io/files/Resume.pdf)
+[Download](https://fbhuiyan42.github.io/files/Resume.pdf)
