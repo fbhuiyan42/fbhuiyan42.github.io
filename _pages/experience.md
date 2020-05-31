@@ -13,7 +13,7 @@ Oak Ridge National Laboratory, Oak Ridge, TN, United States<br/>
 
 2. Software Developer (Android)<br/>
 Reve System Ltd, Dhaka, Bangladesh<br/>
-2016-2017, 8 months
+2016-2017, 10 months
 
 3. Software Developer (Android)<br/>
 iPay Bangladesh, Dhaka, Bangladesh<br/>
