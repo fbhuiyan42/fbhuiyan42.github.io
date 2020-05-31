@@ -25,10 +25,14 @@ iPay Bangladesh, Dhaka, Bangladesh<br/>
 SC18 Conference, Dallas, TX, United States<br/>
 2018, 7 days
 
-2. Teaching Assistant<br/>
+2. Student Volunteer<br/>
+The Women in Cybersecurityconference (WiCyS) 2019, Pittsburgh, PA, United States<br/>
+2019, 3 days
+
+3. Teaching Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
 2017-2019, 2 year
 
-3. Research Assistant<br/>
+4. Research Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
 2020-Present, 5 months
