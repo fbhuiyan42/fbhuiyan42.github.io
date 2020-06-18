@@ -5,34 +5,34 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Academic
+
+1. Research Assistant<br/>
+Tennessee Tech University, Cookeville, TN, United States<br/>
+Sep 2019-Present
+
+2. Teaching Assistant<br/>
+Tennessee Tech University, Cookeville, TN, United States<br/>
+2017-2019, 2 year
+
+3. Student Volunteer<br/>
+SuperComputing (SC) 2018 Conference, Dallas, TX, United States<br/>
+Nov 2018
+
+4. Student Volunteer<br/>
+Women in CyberSecurity (WiCyS) Conference 2019, Pittsburgh, PA, United States<br/>
+March 2019
+
 ## Industry
 
 1. Research Intern<br/>
 Oak Ridge National Laboratory, Oak Ridge, TN, United States<br/>
-2019, 3 Months 
+June 2019 - Aug 2019
 
 2. Software Developer (Android)<br/>
 Reve System Ltd, Dhaka, Bangladesh<br/>
-2016-2017, 9 months
+Sep 2016 - May 2017
 
 3. Software Developer (Android)<br/>
 iPay Systems Ltd, Dhaka, Bangladesh<br/>
-2016, 5 months
-
-## Academic
-
-1. Student Volunteer<br/>
-SC18 Conference, Dallas, TX, United States<br/>
-2018, 7 days
-
-2. Student Volunteer<br/>
-The Women in Cybersecurityconference (WiCyS) 2019, Pittsburgh, PA, United States<br/>
-2019, 3 days
-
-3. Teaching Assistant<br/>
-Tennessee Tech University, Cookeville, TN, United States<br/>
-2017-2019, 2 year
-
-4. Research Assistant<br/>
-Tennessee Tech University, Cookeville, TN, United States<br/>
-2020-Present, 5 months
+April 2016 - Aug 2016
