@@ -9,11 +9,11 @@ author_profile: true
 
 1. Research Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
-Sep 2019-Present
+Sep 2019 - Present
 
 2. Teaching Assistant<br/>
 Tennessee Tech University, Cookeville, TN, United States<br/>
-2017-2019, 2 year
+Aug 2017 - May 2019
 
 3. Student Volunteer<br/>
 SuperComputing (SC) 2018 Conference, Dallas, TX, United States<br/>
