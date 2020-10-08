@@ -7,13 +7,13 @@ author_profile: true
 
 ## 2020
 
-1. **Farzana Ahamed Bhuiyan**, Akond Rahman, and Patrick Morrison. “Vulnerability Discovery Strategies Used in Software Projects.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Workshop]()]
+1. **Farzana Ahamed Bhuiyan**, Akond Rahman, and Patrick Morrison. “Vulnerability Discovery Strategies Used in Software Projects.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print]()]
 
-2. **Farzana Ahamed Bhuiyan**, and Akond Rahman. “Characterizing Co-located Insecure Coding Patterns in Infrastructure as Code Scripts.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Workshop]()]
+2. **Farzana Ahamed Bhuiyan**, and Akond Rahman. “Characterizing Co-located Insecure Coding Patterns in Infrastructure as Code Scripts.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print]()]
 
-3. Akond Rahman, and **Farzana Ahamed Bhuiyan**. “A Vision to Mitigate Bioinformatics Software Development Challenges.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Workshop]()]
+3. Akond Rahman, and **Farzana Ahamed Bhuiyan**. “A Vision to Mitigate Bioinformatics Software Development Challenges.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print]()]
 
-4. Mohammad Mehedi Hasan, **Farzana Ahamed Bhuiyan**, and Akond Rahman, “Testing Practices for Infrastructure as Code”, Languages and Tools for Next Generation Testing Workshop-LANGETI, 2020. [[Workshop]()]
+4. Mohammad Mehedi Hasan, **Farzana Ahamed Bhuiyan**, and Akond Rahman, “Testing Practices for Infrastructure as Code”, Languages and Tools for Next Generation Testing Workshop-LANGETI, 2020. [[Pre-print]()]
 
 5. **Farzana Ahamed Bhuiyan**, Raunak Shakya, and Akond Rahman. "Can We Use Software Bug Reports to Identify Vulnerability Discovery Strategies?" HotSoS '20: 7th Annual Hot Topics in the Science of Security (HoTSoS) Symposium, 2020. [[Conference]()]
 
