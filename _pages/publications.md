@@ -23,7 +23,7 @@ author_profile: true
 
 5. Katherine Brown, **Farzana Ahamed Bhuiyan**, and Douglas Talbert. "Uncertainty Quantification in Multimodal Ensembles of Deep Learners." The Thirty-Third International Flairs Conference, 2020. [[Pre-print](https://fbhuiyan42.github.io/files/Flairs_uncertainity.pdf)]
 
-4. **Farzana Ahamed Bhuiyan**, Katherine Brown, and Md Bulbul Sharif. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
+4. **Farzana Ahamed Bhuiyan**, Katherine Brown, and Md Bulbul Sharif. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/670)]
 
 ## 2019
 
