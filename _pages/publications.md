@@ -21,13 +21,13 @@ author_profile: true
 
 6. **Farzana Ahamed Bhuiyan**, Katherine Brown, Md Bulbul Sharif, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference, 2020. [[Pre-print](https://fbhuiyan42.github.io/files/FLAIRS_multi_feature.pdf)]
 
-5. Katherine Brown, **Farzana Ahamed Bhuiyan**, and Douglas Talbert. "Uncertainty Quantification in Multimodal Ensembles of Deep Learners." The Thirty-Third International Flairs Conference, 2020. [[Pre-print](https://fbhuiyan42.github.io/files/FLAIRS_uncertainity.pdf)]
+5. Katherine Brown, **Farzana Ahamed Bhuiyan**, and Douglas Talbert. "Uncertainty Quantification in Multimodal Ensembles of Deep Learners." The Thirty-Third International Flairs Conference, 2020. [[Pre-print](https://fbhuiyan42.github.io/files/Flairs_uncertainity.pdf)]
 
 4. **Farzana Ahamed Bhuiyan**, Katherine Brown, and Md Bulbul Sharif. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
 
 ## 2019
 
-3. **Farzana Ahamed Bhuiyan**, Md Bulbul Sharif, Paul Joshua Tinker, William Eberle, Douglas Talbert, Sheikh Ghafoor, and Lewis Frey. "Gene Selection and Clustering of Breast Cancer Data." The Thirty-Second International Flairs Conference, 2019. [[Pre-print](https://fbhuiyan42.github.io/files/FLAIRS_cancer.pdf)]
+3. **Farzana Ahamed Bhuiyan**, Md Bulbul Sharif, Paul Joshua Tinker, William Eberle, Douglas Talbert, Sheikh Ghafoor, and Lewis Frey. "Gene Selection and Clustering of Breast Cancer Data." The Thirty-Second International Flairs Conference, 2019. [[Pre-print](https://fbhuiyan42.github.io/files/Flairs_cancer.pdf)]
 
 2. **Farzana Ahamed Bhuiyan**, and Md Bulbul Sharif. “Solving Multimodal Problem using Deep Learning: Speaker Identification.” Proceedings of Student Research and Creative Inquiry Day 3 (2019). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/526)]
 
