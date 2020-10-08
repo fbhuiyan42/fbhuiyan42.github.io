@@ -7,25 +7,25 @@ author_profile: true
 
 ## 2020
 
-1. **Farzana Ahamed Bhuiyan**, Akond Rahman, and Patrick Morrison. “Vulnerability Discovery Strategies Used in Software Projects.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print]()]
+1. **Farzana Ahamed Bhuiyan**, Akond Rahman, and Patrick Morrison. “Vulnerability Discovery Strategies Used in Software Projects.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print](https://fbhuiyan42.github.io/files/HCSE2020_Strategy.pdf)]
 
-2. **Farzana Ahamed Bhuiyan**, and Akond Rahman. “Characterizing Co-located Insecure Coding Patterns in Infrastructure as Code Scripts.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print]()]
+2. **Farzana Ahamed Bhuiyan**, and Akond Rahman. “Characterizing Co-located Insecure Coding Patterns in Infrastructure as Code Scripts.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print](https://fbhuiyan42.github.io/files/HCSE2020_Colocation.pdf)]
 
-3. Akond Rahman, and **Farzana Ahamed Bhuiyan**. “A Vision to Mitigate Bioinformatics Software Development Challenges.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print]()]
+3. Akond Rahman, and **Farzana Ahamed Bhuiyan**. “A Vision to Mitigate Bioinformatics Software Development Challenges.” The 2020 Workshop on Human Centric Software Engineering & Cyber Security (HCSE&CS), 2020. [[Pre-print](https://fbhuiyan42.github.io/files/HCSE2020_Bioinformatics.pdf)]
 
-4. Mohammad Mehedi Hasan, **Farzana Ahamed Bhuiyan**, and Akond Rahman, “Testing Practices for Infrastructure as Code”, Languages and Tools for Next Generation Testing Workshop-LANGETI, 2020. [[Pre-print]()]
+4. Mohammad Mehedi Hasan, **Farzana Ahamed Bhuiyan**, and Akond Rahman, “Testing Practices for Infrastructure as Code”, Languages and Tools for Next Generation Testing Workshop-LANGETI, 2020. [[Pre-print](https://fbhuiyan42.github.io/files/testing.pdf)]
 
-5. **Farzana Ahamed Bhuiyan**, Raunak Shakya, and Akond Rahman. "Can We Use Software Bug Reports to Identify Vulnerability Discovery Strategies?" HotSoS '20: 7th Annual Hot Topics in the Science of Security (HoTSoS) Symposium, 2020. [[Conference]()]
+5. **Farzana Ahamed Bhuiyan**, Raunak Shakya, and Akond Rahman. "Can We Use Software Bug Reports to Identify Vulnerability Discovery Strategies?" HotSoS '20: 7th Annual Hot Topics in the Science of Security (HoTSoS) Symposium, 2020. [[Conference](https://fbhuiyan42.github.io/files/HotSoS2020_StrategyMining.pdf)]
 
-6. **Farzana Ahamed Bhuiyan**, Katherine Brown, Md Bulbul Sharif, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference, 2020. [[Conference](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/viewFile/18476/17629)]
+6. **Farzana Ahamed Bhuiyan**, Katherine Brown, Md Bulbul Sharif, Quentin Johnson, and Douglas Talbert. "Assessing Modality Selection Heuristics to Improve Multimodal Machine Learning for Malware Detection." The Thirty-Third International Flairs Conference, 2020. [[Conference](https://fbhuiyan42.github.io/files/FLAIRS_multi_feature.pdf)]
 
 7. **Farzana Ahamed Bhuiyan**, Katherine Brown, and Md Bulbul Sharif. "Assessing Modality Selection Heuristics to Improve Multimodal Deep Learning for Malware Detection." Proceedings of Student Research and Creative Inquiry Day 4 (2020). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/670/236)]
 
-8. Katherine Brown, **Farzana Ahamed Bhuiyan**, and Douglas Talbert. "Uncertainty Quantification in Multimodal Ensembles of Deep Learners." The Thirty-Third International Flairs Conference, 2020. [[Conference](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/download/18474/17627)]
+8. Katherine Brown, **Farzana Ahamed Bhuiyan**, and Douglas Talbert. "Uncertainty Quantification in Multimodal Ensembles of Deep Learners." The Thirty-Third International Flairs Conference, 2020. [[Conference](https://fbhuiyan42.github.io/files/FLAIRS_uncertainity.pdf)]
 
 ## 2019
 
-1. **Farzana Ahamed Bhuiyan**, Md Bulbul Sharif, Paul Joshua Tinker, William Eberle, Douglas Talbert, Sheikh Ghafoor, and Lewis Frey. "Gene Selection and Clustering of Breast Cancer Data." The Thirty-Second International Flairs Conference, 2019. [[Conference](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/viewFile/18184/17305)]
+1. **Farzana Ahamed Bhuiyan**, Md Bulbul Sharif, Paul Joshua Tinker, William Eberle, Douglas Talbert, Sheikh Ghafoor, and Lewis Frey. "Gene Selection and Clustering of Breast Cancer Data." The Thirty-Second International Flairs Conference, 2019. [[Conference](https://fbhuiyan42.github.io/files/FLAIRS_cancer.pdf)]
 
 2. **Farzana Ahamed Bhuiyan**, and Md Bulbul Sharif. “Solving Multimodal Problem using Deep Learning: Speaker Identification.” Proceedings of Student Research and Creative Inquiry Day 3 (2019). [[Poster](https://publish.tntech.edu/index.php/PSRCI/article/view/526)]
 
